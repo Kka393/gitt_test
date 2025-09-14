@@ -1,2 +1,3 @@
 hi now I am using git for doing  the odin project 
-and then save it
+and then save it 
+now like i want give a git commit message
