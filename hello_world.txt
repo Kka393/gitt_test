@@ -1,0 +1,2 @@
+hi now I am using git for doing  the odin project 
+and then save it
